@@ -1,0 +1,10 @@
+[1] https://www.iosrjournals.org/iosr-jbm/papers/Conf.17037-2017/Volume-2/6.%2033-37.pdf
+[2] https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196193/war-of-secrets-cryptology-in-wwii/
+[3] https://peris.ai/post/why-cryptography-is-the-heart-of-digital-security
+[4] https://en.wikipedia.org/wiki/Cryptography
+[5] https://www.honeycombq.io/insights/storage-units-what-do-they-mean
+[6] https://en.wikipedia.org/wiki/SHA-3
+[7] https://stackoverflow.com/questions/17388177/is-there-a-limit-on-the-message-size-for-sha-256
+[8] https://www.csoonline.com/article/3562701/chinese-researchers-break-rsa-encryption-with-a-quantum-computer.html
+[9] https://www.oreilly.com/library/view/learn-bitcoin-and/9781789536133/9f6e33d7-a011-468c-b92f-3c1c27cc13b7.xhtml
+[10] https://www.backblaze.com/blog/what-is-an-exabyte/
